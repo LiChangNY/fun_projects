@@ -2,8 +2,11 @@
 Coding something for fun
 
 
+##PandigitalPrime
+solution to Pandigital Prime 
+
 ##math_twenty_four
-This is a simple mental arithmetic game between TWO players.
+This is a simple mental arithmetic game between TWO players. See [wiki page](https://en.wikipedia.org/wiki/24_Game) for details.
 
 I will throw four cards (out of 36 cards in total) from 1-9 and your goal isto manipulate these four numbers to achieve 24 by using addition, subtraction, multiplication or division. 
 
