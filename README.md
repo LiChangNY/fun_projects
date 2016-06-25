@@ -2,7 +2,7 @@
 Coding something for fun
 
 
-##PandigitalPrime
+##pandigital_prime
 solution to Pandigital Prime 
 
 ##math_twenty_four
